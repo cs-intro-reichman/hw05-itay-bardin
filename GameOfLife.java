@@ -154,7 +154,6 @@ public class GameOfLife {
 			System.out.printf("%3s", arr[i][j]);
 			}
 			System.out.println();
-			System.out.println();
 		}
 	}
 		
